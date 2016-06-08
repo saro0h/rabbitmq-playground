@@ -41,7 +41,7 @@ Summary:
 Direct
 ------
 
-Their are:
+There are:
 
 * An Exchange `foo`;
 * A queue `bar`, bound to exchange `foo` with routing key `bar-routing-key`;
@@ -67,7 +67,7 @@ queue if K = R
 Topic
 -----
 
-Their are:
+There are:
 
 * An Exchange `foo`;
 * A queue `bar`, bound to exchange `foo` with routing key `bar`;
